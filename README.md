@@ -2,7 +2,7 @@ Moneto Module Template
 ===================
 
 
-Template to generate VIPER Modules in Swift projects. Used by [Moneto](www.moneto.com.br).
+Template to generate VIPER Modules in Swift projects. Used by [Moneto](http://www.moneto.com.br).
 
 ----------
 
